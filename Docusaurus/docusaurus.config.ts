@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Your Site, My Site, Our Site',
+  title: '242saurus',
   tagline: 'Dino Jingga is Cool',
   favicon: 'img/favicon.ico',
 
